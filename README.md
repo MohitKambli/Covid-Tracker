@@ -22,7 +22,7 @@
   <li>flutter_launcher_icons</li>
 </ul>
 <h2>APK Download Link</h2>
-<p>https://github.com/MohitKambli/Covid-Tracker/blob/master/build/app/outputs/apk/app.apk</p>
+<p>https://github.com/MohitKambli/Covid-Tracker/tree/master/APK</p>
 <h2>App Screenshots</h2>
 <div style= "float: left;width: 33.33%;padding: 100px;">
   <img src="https://github.com/MohitKambli/Covid-Tracker/blob/master/screenshots/Screenshot_20200607-181443.png" width=275 height=500>
